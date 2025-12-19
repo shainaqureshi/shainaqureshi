@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Shaina Qureshi
 
 ## 🚀 About Me
 Data Engineer & Analytics Professional passionate about building automated data solutions and working with modern data stacks.
@@ -6,7 +6,7 @@ Data Engineer & Analytics Professional passionate about building automated data 
 - 🔭 Currently working on data engineering projects with dbt and analytics automation
 - 🌱 Continuously learning Python and exploring data visualization with Tableau
 - 💡 Interested in automation, ETL pipelines, and business intelligence
-- 📫 How to reach me: shainaqureshi@gmail.com
+- 📫 How to reach me: [shainaqureshi@gmail.com](mailto:shainaqureshi@gmail.com)
 
 ## 🛠️ Tech Stack
 
@@ -43,10 +43,8 @@ Following structured learning path to master Python fundamentals and advanced co
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/shaina-qureshi13/))
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaina-qureshi13/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shainaqureshi@gmail.com)
 
 ---
 💼 Open to collaboration on data engineering and analytics projects!
-
-
