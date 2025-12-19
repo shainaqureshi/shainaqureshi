@@ -6,7 +6,7 @@ Data Engineer & Analytics Professional passionate about building automated data 
 - 🔭 Currently working on data engineering projects with dbt and analytics automation
 - 🌱 Continuously learning Python and exploring data visualization with Tableau
 - 💡 Interested in automation, ETL pipelines, and business intelligence
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
+- 📫 How to reach me: shainaqureshi@gmail.com
 
 ## 🛠️ Tech Stack
 
@@ -48,3 +48,4 @@ Following structured learning path to master Python fundamentals and advanced co
 
 ---
 💼 Open to collaboration on data engineering and analytics projects!
+
